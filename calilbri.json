@@ -1,5 +1,24 @@
 {
-  "global": {},
+  "global": {
+    "calilbri": {
+      "gray": {
+        "gray-500": {
+          "value": "rgba(136,136,136,0.88)",
+          "type": "color"
+        },
+        "gray-600": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "blue": {
+        "blue-500": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
