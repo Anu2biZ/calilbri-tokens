@@ -47,9 +47,13 @@
           "type": "color"
         }
       },
-      "white": {
+      "base": {
         "white": {
           "value": "#fff",
+          "type": "color"
+        },
+        "black": {
+          "value": "#000",
           "type": "color"
         }
       },
@@ -236,6 +240,52 @@
           "value": "#360722",
           "type": "color"
         }
+      },
+      "red": {
+        "red-50": {
+          "value": "#FFEBEB",
+          "type": "color"
+        },
+        "red-100": {
+          "value": "#FEC1C1",
+          "type": "color"
+        },
+        "red-200": {
+          "value": "#FD9797",
+          "type": "color"
+        },
+        "red-300": {
+          "value": "#FC6D6D",
+          "type": "color"
+        },
+        "red-400": {
+          "value": "#FC5555",
+          "type": "color"
+        },
+        "red-500": {
+          "value": "#FB1818",
+          "type": "color"
+        },
+        "red-600": {
+          "value": "#E50404",
+          "type": "color"
+        },
+        "red-700": {
+          "value": "#BA0303",
+          "type": "color"
+        },
+        "red-800": {
+          "value": "#900303",
+          "type": "color"
+        },
+        "red-900": {
+          "value": "#660202",
+          "type": "color"
+        },
+        "red-950": {
+          "value": "#3C0101",
+          "type": "color"
+        }
       }
     },
     "lable": {
@@ -348,6 +398,16 @@
           "letterSpacing": "-0.7"
         },
         "type": "typography"
+      },
+      "h2": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Bold",
+          "fontSize": "26",
+          "lineHeight": "32",
+          "letterSpacing": "-0.65"
+        },
+        "type": "typography"
       }
     },
     "title": {
@@ -379,6 +439,16 @@
           "fontWeight": "Semi Bold",
           "fontSize": "15",
           "lineHeight": "22",
+          "letterSpacing": "0"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "fontSize": "14",
+          "lineHeight": "20",
           "letterSpacing": "0"
         },
         "type": "typography"
