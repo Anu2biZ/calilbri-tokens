@@ -647,13 +647,92 @@
       }
     },
     "mobile": {
-      "h4": {
+      "h3": {
         "value": {
           "fontFamily": "Inter",
           "fontWeight": "Bold",
           "fontSize": "22",
           "lineHeight": "30",
           "letterSpacing": "-0.7"
+        },
+        "type": "typography"
+      },
+      "h1": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "fontSize": "30"
+        },
+        "type": "typography"
+      },
+      "h2": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "fontSize": "24"
+        },
+        "type": "typography"
+      },
+      "text-regular": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Regular",
+          "fontSize": "16",
+          "lineHeight": "22"
+        },
+        "type": "typography"
+      },
+      "text-semibold": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Semi Bold",
+          "fontSize": "16",
+          "lineHeight": "22"
+        },
+        "type": "typography"
+      },
+      "paragraph-regular": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Regular",
+          "fontSize": "14",
+          "lineHeight": "20"
+        },
+        "type": "typography"
+      },
+      "paragraph-medium": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "fontSize": "14",
+          "lineHeight": "20"
+        },
+        "type": "typography"
+      },
+      "paragraph-semibold": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Semi Bold",
+          "fontSize": "14",
+          "lineHeight": "20"
+        },
+        "type": "typography"
+      },
+      "hint-regular": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Regular",
+          "fontSize": "12",
+          "lineHeight": "16"
+        },
+        "type": "typography"
+      },
+      "hint-semibold": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Semi Bold",
+          "fontSize": "12",
+          "lineHeight": "16"
         },
         "type": "typography"
       }
