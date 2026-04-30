@@ -67,6 +67,10 @@
         "black-alpha-70": {
           "value": "rgba({calilbri.base.black}, 0.7)",
           "type": "color"
+        },
+        "white-alpha-0,2": {
+          "value": "#rgba({calilbri.base.white}, 0.02)",
+          "type": "color"
         }
       },
       "gray": {
@@ -684,6 +688,42 @@
           "letterSpacing": "-0.7"
         },
         "type": "typography"
+      },
+      "text-semi bold": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Semi Bold",
+          "fontSize": "16",
+          "lineHeight": "22"
+        },
+        "type": "typography"
+      },
+      "title2-medium": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "fontSize": "24",
+          "lineHeight": "32"
+        },
+        "type": "typography"
+      },
+      "tex-medium": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "fontSize": "16",
+          "lineHeight": "22"
+        },
+        "type": "typography"
+      },
+      "title-medium": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "fontSize": "20",
+          "lineHeight": "28"
+        },
+        "type": "typography"
       }
     },
     "mobile": {
@@ -791,6 +831,33 @@
         "value": {
           "fontFamily": "Inter",
           "fontWeight": "Medium",
+          "fontSize": "10",
+          "lineHeight": "16"
+        },
+        "type": "typography"
+      },
+      "title-bold": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Bold",
+          "fontSize": "18",
+          "lineHeight": "26"
+        },
+        "type": "typography"
+      },
+      "text-medium": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "fontSize": "16",
+          "lineHeight": "22"
+        },
+        "type": "typography"
+      },
+      "helper-semibold": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Semi Bold",
           "fontSize": "10",
           "lineHeight": "16"
         },
