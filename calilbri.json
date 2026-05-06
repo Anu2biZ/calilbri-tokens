@@ -862,6 +862,15 @@
           "lineHeight": "16"
         },
         "type": "typography"
+      },
+      "title-medium": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "fontSize": "18",
+          "lineHeight": "26"
+        },
+        "type": "typography"
       }
     }
   },
