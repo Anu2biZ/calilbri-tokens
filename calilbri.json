@@ -82,10 +82,6 @@
           "value": "#F5F5F5",
           "type": "color"
         },
-        "gray-75": {
-          "value": "#F0F0F0",
-          "type": "color"
-        },
         "gray-100": {
           "value": "#DFDFDF",
           "type": "color"
@@ -124,6 +120,10 @@
         },
         "gray-950": {
           "value": "#1F1F1F",
+          "type": "color"
+        },
+        "gray-75": {
+          "value": "#F0F0F0",
           "type": "color"
         }
       },
@@ -458,6 +458,12 @@
         },
         "orange-950": {
           "value": "#3B2602",
+          "type": "color"
+        }
+      },
+      "liner": {
+        "gray": {
+          "value": "#F0F0F0",
           "type": "color"
         }
       }
