@@ -1,6 +1,12 @@
 {
   "global": {
     "calilbri": {
+      "gradient": {
+        "skeleton": {
+          "value": "linear-gradient(180deg, #F0F0F0 0%, #F8F8F8 50%, #F0F0F0 100%)",
+          "type": "color"
+        }
+      },
       "сharcoal": {
         "сharcoal-50": {
           "value": "#F3F4F6",
