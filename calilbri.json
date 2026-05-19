@@ -178,7 +178,7 @@
           "value": "#3A2A03",
           "type": "color"
         },
-        "yellow-alpha-0,4": {
+        "yellow-alpha-0-04": {
           "value": "rgba({calilbri.yellow.yellow-500}, 0.04)",
           "type": "color"
         }
@@ -375,8 +375,8 @@
           "type": "color"
         }
       },
-      " purple": {
-        " purple-50": {
+      "purple": {
+        "purple-50": {
           "value": "#F0EBFE",
           "type": "color"
         },
@@ -603,7 +603,7 @@
         },
         "type": "typography"
       },
-      " title-semi bold": {
+      "title-semibold": {
         "value": {
           "fontFamily": "Inter",
           "fontWeight": "Semi Bold",
@@ -623,7 +623,7 @@
         },
         "type": "typography"
       },
-      "paragraph-semi bold": {
+      "paragraph-semibold": {
         "value": {
           "fontFamily": "Inter",
           "fontWeight": "Semi Bold",
@@ -663,7 +663,7 @@
         },
         "type": "typography"
       },
-      "hint-semi bold": {
+      "hint-semibold": {
         "value": {
           "fontFamily": "Inter",
           "fontWeight": "Semi Bold",
@@ -713,7 +713,7 @@
         },
         "type": "typography"
       },
-      "text-semi bold": {
+      "text-semibold": {
         "value": {
           "fontFamily": "Inter",
           "fontWeight": "Semi Bold",
@@ -731,7 +731,7 @@
         },
         "type": "typography"
       },
-      "tex-medium": {
+      "text-medium": {
         "value": {
           "fontFamily": "Inter",
           "fontWeight": "Medium",
@@ -767,7 +767,7 @@
         },
         "type": "typography"
       },
-      "microtext-ыуьшищдв": {
+      "microtext-semibold": {
         "value": {
           "fontFamily": "Inter",
           "fontWeight": "Semi Bold",
