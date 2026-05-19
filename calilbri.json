@@ -916,6 +916,15 @@
           "lineHeight": "26"
         },
         "type": "typography"
+      },
+      "text-bold": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Bold",
+          "fontSize": "16",
+          "lineHeight": "22"
+        },
+        "type": "typography"
       }
     }
   },
