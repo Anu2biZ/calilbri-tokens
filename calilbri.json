@@ -7,48 +7,48 @@
           "type": "color"
         }
       },
-      "сharcoal": {
-        "сharcoal-50": {
+      "charcoal": {
+        "charcoal-50": {
           "value": "#F3F4F6",
           "type": "color"
         },
-        "сharcoal-100": {
+        "charcoal-100": {
           "value": "#DBDEE4",
           "type": "color"
         },
-        "сharcoal-200": {
+        "charcoal-200": {
           "value": "#C2C7D2",
           "type": "color"
         },
-        "сharcoal-300": {
+        "charcoal-300": {
           "value": "#AAB1BF",
           "type": "color"
         },
-        "сharcoal-400": {
+        "charcoal-400": {
           "value": "#919BAD",
           "type": "color"
         },
-        "сharcoal-500": {
+        "charcoal-500": {
           "value": "#79849A",
           "type": "color"
         },
-        "сharcoal-600": {
+        "charcoal-600": {
           "value": "#646F85",
           "type": "color"
         },
-        "сharcoal-700": {
+        "charcoal-700": {
           "value": "#515A6C",
           "type": "color"
         },
-        "сharcoal-800": {
+        "charcoal-800": {
           "value": "#3F4654",
           "type": "color"
         },
-        "сharcoal-900": {
+        "charcoal-900": {
           "value": "#2D323B",
           "type": "color"
         },
-        "сharcoal-950": {
+        "charcoal-950": {
           "value": "#1A1D23",
           "type": "color"
         }
