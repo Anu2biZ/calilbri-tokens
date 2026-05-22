@@ -539,6 +539,15 @@
         },
         "type": "typography"
       },
+      "h1-bold": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Bold",
+          "fontSize": "45",
+          "lineHeight": "52"
+        },
+        "type": "typography"
+      },
       "h2": {
         "value": {
           "fontFamily": "Inter",
