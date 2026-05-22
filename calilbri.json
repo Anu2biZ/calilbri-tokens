@@ -183,57 +183,57 @@
           "type": "color"
         }
       },
-      "teal": {
-        "teal-500-alpha-10": {
-          "value": "rgba({calilbri.teal.teal-500}, 0.1)",
-          "type": "color"
-        },
-        "teal-500-alpha-20": {
-          "value": "rgba({calilbri.teal.teal-500}, 0.2)",
-          "type": "color"
-        },
-        "teal-50": {
+      "tial": {
+        "tial-50": {
           "value": "#DAF6F8",
           "type": "color"
         },
-        "teal-100": {
+        "tial-100": {
           "value": "#CAF2F5",
           "type": "color"
         },
-        "teal-200": {
+        "tial-200": {
           "value": "#A5E9EF",
           "type": "color"
         },
-        "teal-300": {
+        "tial-300": {
           "value": "#81E0E8",
           "type": "color"
         },
-        "teal-400": {
+        "tial-400": {
           "value": "#5DD7E1",
           "type": "color"
         },
-        "teal-500": {
+        "tial-500": {
           "value": "#46D1DD",
           "type": "color"
         },
-        "teal-600": {
+        "tial-600": {
           "value": "#24B8C4",
           "type": "color"
         },
-        "teal-700": {
+        "tial-700": {
           "value": "#1D96A0",
           "type": "color"
         },
-        "teal-800": {
+        "tial-800": {
           "value": "#17747C",
           "type": "color"
         },
-        "teal-900": {
+        "tial-900": {
           "value": "#105258",
           "type": "color"
         },
-        "teal-950": {
+        "tial-950": {
           "value": "#0A3034",
+          "type": "color"
+        },
+        "tial-500-alpha-20": {
+          "value": "rgba({calilbri.tial.tial-500}, 0.2)",
+          "type": "color"
+        },
+        "tial-500-alpha-10": {
+          "value": "rgba({calilbri.tial.tial-500}, 0.1)",
           "type": "color"
         }
       },
