@@ -472,6 +472,52 @@
           "value": "#F0F0F0",
           "type": "color"
         }
+      },
+      "blue": {
+        "blue-50": {
+          "value": "#F5F8FF",
+          "type": "color"
+        },
+        "blue-100": {
+          "value": "#C5D7FD",
+          "type": "color"
+        },
+        "blue-200": {
+          "value": "#98B6F9",
+          "type": "color"
+        },
+        "blue-300": {
+          "value": "#98B6F9",
+          "type": "color"
+        },
+        "blue-400": {
+          "value": "#7099F2",
+          "type": "color"
+        },
+        "blue-500": {
+          "value": "#5081E9",
+          "type": "color"
+        },
+        "blue-600": {
+          "value": "#386DDD",
+          "type": "color"
+        },
+        "blue-700": {
+          "value": "#275BCD",
+          "type": "color"
+        },
+        "blue-800": {
+          "value": "#1B4DB8",
+          "type": "color"
+        },
+        "blue-900": {
+          "value": "#133FA0",
+          "type": "color"
+        },
+        "blue-950": {
+          "value": "#0E3487",
+          "type": "color"
+        }
       }
     },
     "fontFamilies": {
